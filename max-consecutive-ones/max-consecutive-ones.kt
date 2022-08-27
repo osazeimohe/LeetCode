@@ -1,3 +1,4 @@
+//uses a mutable list to keep track of the window of ones
 class Solution {
    fun findMaxConsecutiveOnes(nums: IntArray): Int {
         var max = 0
